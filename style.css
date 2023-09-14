@@ -1,0 +1,369 @@
+.portifolio-vitor {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portifolio-vitor .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 5644px;
+  position: relative;
+}
+
+.portifolio-vitor .front-end {
+  position: absolute;
+  width: 1440px;
+  height: 1106px;
+  top: 3353px;
+  left: 0;
+}
+
+.portifolio-vitor .contato {
+  position: absolute;
+  width: 1440px;
+  height: 1185px;
+  top: 4459px;
+  left: 0;
+}
+
+.portifolio-vitor .perfil {
+  position: absolute;
+  width: 1338px;
+  height: 1001px;
+  top: 36px;
+  left: 51px;
+}
+
+.portifolio-vitor .overlap {
+  position: relative;
+  width: 1304px;
+  height: 922px;
+  top: 26px;
+  left: 33px;
+}
+
+.portifolio-vitor .overlap-group {
+  position: absolute;
+  width: 1304px;
+  height: 851px;
+  top: 0;
+  left: 0;
+}
+
+.portifolio-vitor .overlap-group-2 {
+  position: absolute;
+  width: 795px;
+  height: 736px;
+  top: 0;
+  left: 0;
+}
+
+.portifolio-vitor .VITOR-PETIND {
+  position: absolute;
+  width: 691px;
+  top: 76px;
+  left: 38px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: 140px;
+}
+
+.portifolio-vitor .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 0;
+  left: 665px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .group {
+  position: absolute;
+  width: 704px;
+  height: 554px;
+  top: 182px;
+  left: 0;
+}
+
+.portifolio-vitor .rectangle {
+  position: absolute;
+  width: 644px;
+  height: 20px;
+  top: 534px;
+  left: 60px;
+  background-color: #1f1c1c;
+}
+
+.portifolio-vitor .designer-bro {
+  position: absolute;
+  width: 627px;
+  height: 521px;
+  top: 0;
+  left: 0;
+}
+
+.portifolio-vitor .graphic-DESIGNER {
+  position: absolute;
+  width: 552px;
+  height: 243px;
+  top: 608px;
+  left: 752px;
+}
+
+.portifolio-vitor .text-wrapper-2 {
+  position: absolute;
+  width: 342px;
+  top: 0;
+  left: 38px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 400;
+  color: #2e2727;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .mais-sobre-minhas {
+  position: absolute;
+  width: 241px;
+  top: 809px;
+  left: 173px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .UX-UI-designer-FIGMA {
+  position: absolute;
+  width: 195px;
+  top: 8px;
+  left: 1097px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .fashion-designer {
+  position: absolute;
+  width: 186px;
+  top: 3px;
+  left: 875px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .vector {
+  position: absolute;
+  width: 105px;
+  height: 118px;
+  top: 804px;
+  left: 32px;
+}
+
+.portifolio-vitor .ux-design {
+  position: absolute;
+  width: 1440px;
+  height: 1089px;
+  top: 1039px;
+  left: 0;
+  overflow: hidden;
+}
+
+.portifolio-vitor .overlap-2 {
+  position: relative;
+  height: 1102px;
+  top: -2px;
+  background-color: #2e2727;
+}
+
+.portifolio-vitor .overlap-3 {
+  position: absolute;
+  width: 1110px;
+  height: 738px;
+  top: 130px;
+  left: 179px;
+}
+
+.portifolio-vitor .overlap-group-3 {
+  position: absolute;
+  width: 1110px;
+  height: 738px;
+  top: 0;
+  left: 0;
+}
+
+.portifolio-vitor .text-wrapper-3 {
+  position: absolute;
+  width: 1083px;
+  top: 0;
+  left: 0;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 140px;
+  white-space: nowrap;
+}
+
+.portifolio-vitor .prototyping-process {
+  position: absolute;
+  width: 741px;
+  height: 636px;
+  top: 103px;
+  left: 369px;
+}
+
+.portifolio-vitor .element-ANO-DE-EXPRI-NCIA {
+  position: absolute;
+  width: 241px;
+  top: 248px;
+  left: 18px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .span {
+  color: #ffffff;
+}
+
+.portifolio-vitor .text-wrapper-4 {
+  color: #d3d586;
+}
+
+.portifolio-vitor .n-VEL-AVAN-ADO-FIGMA {
+  position: absolute;
+  width: 241px;
+  top: 399px;
+  left: 18px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .text-wrapper-5 {
+  color: #d4d686;
+}
+
+.portifolio-vitor .FACILIDADE-EM-CRIA-o {
+  position: absolute;
+  width: 256px;
+  top: 530px;
+  left: 18px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .element-projetos {
+  position: absolute;
+  width: 154px;
+  top: 666px;
+  left: 18px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .projetos {
+  position: absolute;
+  width: 154px;
+  top: 931px;
+  left: 569px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .text-wrapper-6 {
+  top: 931px;
+  left: 757px;
+  position: absolute;
+  width: 154px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .text-wrapper-7 {
+  top: 934px;
+  left: 945px;
+  position: absolute;
+  width: 154px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .text-wrapper-8 {
+  top: 937px;
+  left: 1117px;
+  position: absolute;
+  width: 154px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portifolio-vitor .fashion-design {
+  position: absolute;
+  width: 1440px;
+  height: 1225px;
+  top: 2128px;
+  left: 0;
+  background-color: #2e2727;
+}
+
+.portifolio-vitor .glr-fashion-design {
+  position: absolute;
+  width: 1440px;
+  height: 1225px;
+  top: 0;
+  left: 0;
+}
